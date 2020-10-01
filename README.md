@@ -1,6 +1,6 @@
 # school-website
 HTML boilerplate template for school website
-
+HTML amazing template for school website
 
 [Demo](http://sms.hrshadhin.me)
 
